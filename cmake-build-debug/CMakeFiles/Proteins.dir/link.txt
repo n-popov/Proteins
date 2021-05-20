@@ -1,0 +1,3 @@
+"C:\dev\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Proteins.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Proteins.dir/objects.a @CMakeFiles\Proteins.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Proteins.dir/objects.a -Wl,--no-whole-archive  -o Proteins.exe -Wl,--out-implib,libProteins.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Proteins.dir\linklibs.rsp

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/study/Proteins/FT/fourier.h
+complex
+-
+vector
+-
+numeric
+-
+
+C:/study/Proteins/FT/transform.cpp
+iostream
+-
+iterator
+-
+fourier.h
+C:/study/Proteins/FT/fourier.h
+

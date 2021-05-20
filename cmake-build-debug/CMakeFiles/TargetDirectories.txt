@@ -1,0 +1,5 @@
+C:/study/Proteins/cmake-build-debug/CMakeFiles/MC.dir
+C:/study/Proteins/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/study/Proteins/cmake-build-debug/CMakeFiles/Cluster.dir
+C:/study/Proteins/cmake-build-debug/CMakeFiles/Fourier.dir
+C:/study/Proteins/cmake-build-debug/CMakeFiles/edit_cache.dir

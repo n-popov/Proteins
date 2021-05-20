@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/study/Proteins/KM/cluster.cpp
+iostream
+-
+iterator
+-
+kmeans.h
+C:/study/Proteins/KM/kmeans.h
+
+C:/study/Proteins/KM/dot.h
+cmath
+-
+functional
+-
+
+C:/study/Proteins/KM/kmeans.h
+vector
+-
+map
+-
+../MC/random_generator.h
+C:/study/Proteins/MC/random_generator.h
+dot.h
+C:/study/Proteins/KM/dot.h
+
+C:/study/Proteins/MC/random_generator.h
+random
+-
+chrono
+-
+string
+-
+set
+-
+

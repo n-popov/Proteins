@@ -1,0 +1,3 @@
+"C:\dev\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Fourier.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Fourier.dir/objects.a @CMakeFiles\Fourier.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Fourier.dir/objects.a -Wl,--no-whole-archive  -o Fourier.exe -Wl,--out-implib,libFourier.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Fourier.dir\linklibs.rsp

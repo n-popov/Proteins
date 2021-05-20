@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/study/Proteins/MC/mc.cpp
+iostream
+-
+pi.h
+C:/study/Proteins/MC/pi.h
+
+C:/study/Proteins/MC/pi.h
+random_generator.h
+C:/study/Proteins/MC/random_generator.h
+future
+-
+
+C:/study/Proteins/MC/random_generator.h
+random
+-
+chrono
+-
+string
+-
+set
+-
+
